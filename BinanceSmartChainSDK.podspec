@@ -13,7 +13,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'x-oauth-centerprime' => 'support@centerprime.technology' }
   s.source           = { :git => 'https://github.com/centerprime/BinanceSmartChain-iOS-SDK.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '14.0'
 
   s.source_files = 'BinanceSmartChainSDK/Classes/**/*'
   
